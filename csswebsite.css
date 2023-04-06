@@ -1,0 +1,234 @@
+* {
+    paddin;
+    font-family: "Roboto",sans-serif;
+    
+}
+header {
+    width: 980px;
+    height: 100px;
+    background: #cb7802;
+    
+}
+.container {
+    width: 980px;
+    margin: 0 auto;
+}
+header img {
+    padding-top: 15px;
+}
+nav {
+    height: 35px;
+    background: gray;
+    
+}
+nav .menu ul {
+    list-style: none;
+}
+nav .menu ul li a{
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;    
+}
+article h2 {
+    text-align: left;
+    padding: 15px 0;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background: #cb7802;
+    width: 980px;
+}
+article .new_list .new_item {
+    width: 980px;
+}
+footer {
+    background: #cb7802;
+    width: 980px;
+    height: 280px;
+}
+.news {
+    padding: 10px 0;
+    margin: 0;
+    
+
+}
+article h3 {
+    text-align: center;
+    padding: 15px 0;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background: #cb7802;
+    width: 980px;
+    
+}
+article h6 {
+    text-align: center;
+    width: 980px;
+}
+.new-list {
+    height: 300px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+ * {box-sizing: border-box}
+ body{
+   font-family: 'Noto Sans JP', sans-serif;
+ }
+ h1, label{
+   color: DodgerBlue;
+ }
+   input[type=text], input[type=password] {
+   width: 100%;
+   padding: 15px;
+   margin: 5px 0 22px 0;
+   display: inline-block;
+   border: none;
+   width:100%;
+   resize: vertical;
+   padding:15px;
+   border-radius:15px;
+   border:0;
+   box-shadow:4px 4px 10px rgba(0,0,0,0.2);
+ }
+input[type=text]:focus, input[type=password]:focus {
+   outline: none;
+ }
+hr {
+   border: 1px solid #f1f1f1;
+   margin-bottom: 25px;
+ }
+button {
+   background-color: #4CAF50;
+   color: white;
+   padding: 14px 20px;
+   margin: 8px 0;
+   border: none;
+   cursor: pointer;
+   width: 100%;
+   opacity: 0.9;
+ }
+button:hover {
+   opacity:1;
+ }
+.cancelbtn {
+   padding: 14px 20px;
+   background-color: #f44336;
+ }
+.signupbtn {
+   float: left;
+   width: 100%;
+   border-radius:15px;
+   border:0;
+   box-shadow:4px 4px 10px rgba(0,0,0,0.2);
+ }
+.container {
+   padding: 16px;
+ }
+.clearfix::after {
+   content: "";
+   clear: both;
+   display: table;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+ * {box-sizing: border-box}
+ body{
+   font-family: 'Noto Sans JP', sans-serif;
+   width: 980px;
+ }
+ h1, label{
+   color: DodgerBlue;
+   width: 980px;
+ }
+   input[type=text], input[type=password] {
+   width: 100%;
+   padding: 15px;
+   margin: 5px 0 22px 0;
+   display: inline-block;
+   border: none;
+   width:980px;
+   resize: vertical;
+   padding:15px;
+   border-radius:15px;
+   border:0;
+   box-shadow:4px 4px 10px rgba(0,0,0,0.2);
+ }
+input[type=text]:focus, input[type=password]:focus {
+   outline: none;
+ }
+hr {
+   border: 1px solid #f1f1f1;
+   margin-bottom: 25px;
+ }
+button {
+   background-color: #4CAF50;
+   color: white;
+   padding: 14px 20px;
+   margin: 8px 0;
+   border: none;
+   cursor: pointer;
+   width: 100%;
+   opacity: 0.9;
+   width: 980px;
+ }
+button:hover {
+   opacity:1;
+   width: 980px;
+ }
+.cancelbtn {
+   padding: 14px 20px;
+   background-color: #f44336;
+   width: 980px;
+ }
+.signupbtn {
+   float: left;
+   width: 980px;
+   border-radius:15px;
+   border:0;
+   box-shadow:4px 4px 10px rgba(0,0,0,0.2);
+   
+ }
+.container {
+   padding: 16px;
+ }
+.clearfix::after {
+   content: "";
+   clear: both;
+   display: table;
+   width: 980px;
+ }
+ article h4 {
+    text-align: center;
+    padding: 10px 0;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background: #cb7802;
+    width: 980px;
+ }
+.listli ul li {
+    background: #4CAF50;
+    font-size: medium;
+    margin: 0;
+    width: 980px;
+}
+footer {
+    clear: both;
+    text-align: center;
+    background-color: orangered;
+    height: 280px;
+    padding-top: 10px;
+  }
+  
+  footer>table {
+    color: #FFF;
+    margin-left: 50px;
+    vertical-align: center;
+    text-align: left;
+    font-size: 17px;
+    margin-top: 5px;
+  }
+
+  
